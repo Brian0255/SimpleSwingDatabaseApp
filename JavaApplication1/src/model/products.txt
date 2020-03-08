@@ -1,0 +1,8 @@
+Paper Towels	PT944324	30	4.99
+Crackers	CKS9343379	50	1.99
+Apple Juice	AJ5449395	20	3.99
+Hand Sanitizer 64 oz	HS8766321	10	8.99
+Paper Plates 100 ct	PP104039100	25	5.99
+Billie's Bread, Lil' Loaf	BBLL159484	60	1.99
+Apples, 20 oz bag	A20B2349655	5	4.99
+Lemons, 10 ct bag	L10CTB2933	5	5.99
